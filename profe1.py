@@ -32,3 +32,4 @@ while opciones != "6":
 
     else:
         print("Opción no válida. Intente nuevamente.")
+    print("adios")
